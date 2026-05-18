@@ -20,13 +20,15 @@ Fire Duck Search is a lightweight, privacy-focused browser extension that instan
 
 ## 📁 Repository Structure
 
-| File / Folder | Purpose |
-|---|---|
-| `manifest.json` | Extension configuration setting permissions, icons, and new tab browser overrides. |
-| `index.html` | The structural layout containing the dashboard UI, bang modules, and shortcut nodes. |
-| `style.css` | Defines the ember-themed typography, responsive structure, and dark aesthetic layouts. |
-| `script.js` | Handles the query execution, interactive bangs, ecosystem navigation, and particle generation. |
-| `duck.png` | Core branding icon asset representing the project badge across runtime surfaces. |
+```
+├── manifest.json      # Extension configuration, permissions, and tab overrides
+├── index.html         # Main dashboard UI structure, modules, and shortcut nodes
+├── style.css          # Ember-themed typography, responsive structure, and styles
+├── script.js          # Query execution, interactive bangs, and particle canvas loop
+├── duck.png           # Core branding logo asset representing the project badge
+├── duck-ai.svg        # Clean vector icon for the Duck AI card component
+└── duckmail.svg       # Clean vector icon for the Duck Mail card component
+```
 
 ---
 
