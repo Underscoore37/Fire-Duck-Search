@@ -1,0 +1,15 @@
+{
+  "_copyright": "Fire Duck Search. Copyright (c) 2026 pokharelbigyan.com.np. Licensed under GPL-3.0. Anyone is free to modify and distribute this extension under the terms of the license. Official rights reserved by pokharelbigyan.com.np.",
+  "manifest_version": 3,
+  "name": "Fire Duck Search",
+  "version": "1.0.0",
+  "description": "A molten-fast, privacy-focused search dashboard powered by DuckDuckGo.",
+  "icons": {
+    "16": "duck.png",
+    "48": "duck.png",
+    "128": "duck.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

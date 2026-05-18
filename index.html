@@ -1,0 +1,87 @@
+<!--
+      Fire Duck Search
+     Copyright (c) 2026 pokharelbigyan.com.np
+     Licensed under the GNU General Public License v3.0 (GPL-3.0)
+     Anyone is free to copy, modify, and distribute this code under the terms of the GPL-3.0.
+     Official rights are reserved by pokharelbigyan.com.np.
+     See <https://www.gnu.org/licenses/> for full license details.
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>FIRE DUCK SEARCH</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="duck.png">
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<canvas id="embers"></canvas>
+<div class="glow one"></div>
+<div class="glow two"></div>
+
+<div class="container">
+
+  <div class="logo-wrap">
+    <img src="duck.png" class="duck-logo" alt="FireDuck logo"/>
+    <div class="logo-text">FIRE DUCK SEARCH</div>
+  </div>
+
+  <div class="subtitle">Molten-fast private search</div>
+
+  <div class="search-wrap">
+    <input id="query" type="text" placeholder="Search the molten web… or try !g, !yt, !w" />
+    <button class="search-btn" id="searchBtn">
+      <svg viewBox="0 0 24 24" stroke="currentColor" fill="none">
+        <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
+      </svg>
+      SEARCH
+    </button>
+  </div>
+
+  <div class="cards">
+    <div class="card" id="cardDuckAI">
+      <div class="card-icon" style="background:none;border:none;width:34px;height:34px;">
+        <img src="duck-ai.svg" width="34" height="34" alt="Duck AI" style="display:block;" />
+      </div>
+      <div class="card-title">DUCK AI</div>
+      <div class="card-sub">Ask the fire mind</div>
+    </div>
+
+    <div class="card" id="cardDuckMail">
+      <div class="card-icon" style="background:none;border:none;width:34px;height:34px;">
+        <img src="duckmail.svg" width="34" height="34" alt="Duck Mail" style="display:block;" />
+      </div>
+      <div class="card-title">DUCK MAIL</div>
+      <div class="card-sub">Secure flame inbox</div>
+    </div>
+  </div>
+
+  <div class="bangs-label">Popular Bangs</div>
+  <div class="bangs">
+    <div class="bang" data-bang="!g">   <span>!g</span>    Google</div>
+    <div class="bang" data-bang="!yt">  <span>!yt</span>   YouTube</div>
+    <div class="bang" data-bang="!w">   <span>!w</span>    Wikipedia</div>
+    <div class="bang" data-bang="!r">   <span>!r</span>    Reddit</div>
+    <div class="bang" data-bang="!gh">  <span>!gh</span>   GitHub</div>
+    <div class="bang" data-bang="!maps"><span>!maps</span> Maps</div>
+    <div class="bang" data-bang="!amz"> <span>!amz</span>  Amazon</div>
+    <div class="bang" data-bang="!tw">  <span>!tw</span>   Twitter / X</div>
+    <div class="bang" data-bang="!img"> <span>!img</span>  Images</div>
+    <div class="bang" data-bang="!so">  <span>!so</span>   Stack Overflow</div>
+  </div>
+
+  <div class="badges">
+    <div class="badge">🔥 Quick Scan</div>
+    <div class="badge">⚡ Instant Results</div>
+    <div class="badge">🧠 AI Boost</div>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
