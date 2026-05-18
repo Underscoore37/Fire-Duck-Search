@@ -8,7 +8,7 @@ Fire Duck Search is a lightweight, privacy-focused browser extension that instan
 
 ---
 
-![Fire Duck Search Dashboard](https://drive.usercontent.google.com/download?id=1oS4qRQzvmKpMicGW8UOkEX8g0XFojdfV&export=view&authuser=0)
+![Fire Duck Search Dashboard](https://i.ibb.co/1tcGXnrn/Homescreen-Fire-Duck.png)
 
 ---
 
