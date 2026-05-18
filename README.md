@@ -8,6 +8,10 @@ Fire Duck Search is a lightweight, privacy-focused browser extension that instan
 
 ---
 
+![Fire Duck Search Dashboard](https://drive.usercontent.google.com/download?id=1oS4qRQzvmKpMicGW8UOkEX8g0XFojdfV&export=view&authuser=0)
+
+---
+
 ## ✨ Key Features
 
 - **Molten-Fast Dashboard** — Replaces your browser's default new tab page with a lightweight dashboard that renders instantly.
