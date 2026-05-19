@@ -23,7 +23,6 @@ Fire Duck Search is a lightweight, privacy-focused browser extension that instan
 ---
 
 ## 📁 Repository Structure
-
 ```
 ├── manifest.json      # Extension configuration, permissions, and tab overrides
 ├── index.html         # Main dashboard UI structure, modules, and shortcut nodes
@@ -33,7 +32,6 @@ Fire Duck Search is a lightweight, privacy-focused browser extension that instan
 ├── duck-ai.svg        # Clean vector icon for the Duck AI card component
 └── duckmail.svg       # Clean vector icon for the Duck Mail card component
 ```
-
 ---
 
 ## 🚀 Installation & Development
@@ -70,6 +68,7 @@ Type your query directly into the central input field and hit **Enter** or click
 
 Click on any popular bang chip at the bottom of the interface to prepopulate your search bar with the proper functional prefix, or type them manually:
 
+
 | Bang | Target Destination | Bang | Target Destination |
 |---|---|---|---|
 | `!g` | Google Search | `!maps` | Google Maps |
@@ -88,11 +87,25 @@ For questions or feedback, reach out at [contact@pokharelbigyan.com.np](mailto:c
 
 ## 📄 License
 
-Copyright © 2026 [pokharelbigyan.com.np](https://pokharelbigyan.com.np)
+### Source Code
+Copyright &copy; 2026 [pokharelbigyan.com.np](https://pokharelbigyan.com.np)
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. Anyone is free to copy, modify, distribute, and run this code under the terms of the GPL-3.0 license. Official rights are reserved by the original authors.
+This project's source code is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. Anyone is free to copy, modify, distribute, and run this code under the terms of the GPL-3.0 license. Official rights are reserved by the original authors. See the full license details at [gnu.org/licenses](https://www.gnu.org/licenses).
 
-See the full license details at [gnu.org/licenses](https://www.gnu.org/licenses).
+### Branding Assets
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC--BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+
+The brand logo asset `duck.png` for **[Fire Duck Search](https://raw.githubusercontent.com/Underscoore37/Fire-Duck-Search/refs/heads/main/duck.png)** is licensed separately under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+
+<p align="left">
+  <a href="https://raw.githubusercontent.com/Underscoore37/Fire-Duck-Search/refs/heads/main/duck.png">Fire Duck Search Logo</a> &copy; 2026 by 
+  <a href="https://pokharelbigyan.com.np">Bigyan Pokharel</a> 
+  is licensed under 
+  <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+  <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" width="18" height="18" style="vertical-align: middle; margin-left: 4px;">
+  <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" width="18" height="18" style="vertical-align: middle; margin-left: 2px;">
+  <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="ND" width="18" height="18" style="vertical-align: middle; margin-left: 2px;">
+</p>
 
 ---
 
