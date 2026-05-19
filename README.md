@@ -90,12 +90,14 @@ For questions or feedback, reach out at [contact@pokharelbigyan.com.np](mailto:c
 ### Source Code
 Copyright &copy; 2026 [pokharelbigyan.com.np](https://pokharelbigyan.com.np)
 
-This project's source code is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. Anyone is free to copy, modify, distribute, and run this code under the terms of the GPL-3.0 license. Official rights are reserved by the original authors. See the full license details at [gnu.org/licenses](https://www.gnu.org/licenses).
+This project's source code is open-source software licensed under the **MIT License**. You are free to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the Software. See the full license details in the root `LICENSE` file.
 
 ### Branding Assets
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC--BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-The brand logo asset `duck.png` for **[Fire Duck Search](https://github.com/Underscoore37/Fire-Duck-Search/)** is licensed separately under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+**EXCEPTIONS TO THE MIT LICENSE:** The brand logo asset `duck.png` and associated graphical identity elements for **[Fire Duck Search](https://github.com/Underscoore37/Fire-Duck-Search/)** are explicitly excluded from the software's copyleft/permissive permissions. 
+
+These graphical assets are licensed separately under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
 <p align="left">
   <a href="https://raw.githubusercontent.com/Underscoore37/Fire-Duck-Search/refs/heads/main/duck.png">Fire Duck Search Logo</a> &copy; 2026 by 
@@ -106,6 +108,7 @@ The brand logo asset `duck.png` for **[Fire Duck Search](https://github.com/Unde
   <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" width="18" height="18" style="vertical-align: middle; margin-left: 2px;">
   <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="ND" width="18" height="18" style="vertical-align: middle; margin-left: 2px;">
 </p>
+
 
 ---
 
