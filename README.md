@@ -95,7 +95,7 @@ This project's source code is licensed under the **GNU General Public License v3
 ### Branding Assets
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC--BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-The brand logo asset `duck.png` for **[Fire Duck Search](https://raw.githubusercontent.com/Underscoore37/Fire-Duck-Search/refs/heads/main/duck.png)** is licensed separately under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+The brand logo asset `duck.png` for **[Fire Duck Search](https://github.com/Underscoore37/Fire-Duck-Search/)** is licensed separately under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 
 <p align="left">
   <a href="https://raw.githubusercontent.com/Underscoore37/Fire-Duck-Search/refs/heads/main/duck.png">Fire Duck Search Logo</a> &copy; 2026 by 
